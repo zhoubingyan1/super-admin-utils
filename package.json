@@ -1,9 +1,9 @@
 {
-  "name": "@superadmin/utils",
+  "name": "superadmin-utils",
   "version": "1.0.0",
   "description": "super admin utils",
   "keywords": [
-    "@super/utils",
+    "super-admin-utils",
     "vue-super-admin",
     "vite"
   ],
